@@ -1,6 +1,6 @@
 # ===========================================
-# ROT13 ENCRYPTED - 7 LAYERS
-# PATI CYBER TEAM
+# HAYO APE LAPO CUK??? BELAJAR KONO SU
+# HARGAI KARYA OJO MUNG EDIT TOK CUK BY BAHAK
 # ===========================================
 import codecs
 
